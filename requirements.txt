@@ -1,0 +1,7 @@
+statsbombpy
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
