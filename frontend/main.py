@@ -5,7 +5,7 @@ import pandas as pd
 page_cfg.load_page_config()
 
 # Read data
-df = pd.read_csv("../data/matches_index.csv")
+df = pd.read_csv("./data/matches_index.csv")
 
 st.title("⚽ Football Analytics Platform")
 st.write("Choose a section to explore:")
