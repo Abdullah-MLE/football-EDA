@@ -188,7 +188,7 @@ This application supports two data sources:
 - Fallback when StatsBomb API is unavailable
 
 The application intelligently switches between data sources based on availability and analysis type.
-
+<!--
 ## Screenshots
 
 To showcase your project, add the following screenshots to a `screenshots/` folder in your repository:
@@ -228,6 +228,7 @@ After adding screenshots, update this section with:
 ### Team Comparison
 ![Team Comparison](screenshots/team-comparison.png)
 ```
+-->
 
 ## Technical Highlights
 
